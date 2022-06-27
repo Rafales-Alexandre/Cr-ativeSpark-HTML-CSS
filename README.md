@@ -17,7 +17,7 @@ Prenez les deux fichiers SVG dans le dossier Figma puis glissez/déposez dans vo
 
 ## Previsualisation de la maquette
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Integration_statique-CreativeSpark/img/maquette.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Integration_statique-CreativeSpark/blob/main/img/Frame209.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
