@@ -17,7 +17,7 @@ Prenez les fichiers SVG dans le dossier Figma puis glissez/déposez dans votre n
 
 ## Previsualisation de la maquette
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/Integration_statique-CreativeSpark/blob/main/img/Frame 209.png" alt="template 3" width="300" /></p>
+<p align="center"><img src="https://github.com/Rafales-Alexandre/Integration_statique-CreativeSpark/img/Fineace - Landing Page.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
